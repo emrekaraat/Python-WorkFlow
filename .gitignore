@@ -5,6 +5,7 @@ __pycache__/
 
 # Custom Files
 Notes.txt
+ignore.txt
 
 # C extensions
 *.so
